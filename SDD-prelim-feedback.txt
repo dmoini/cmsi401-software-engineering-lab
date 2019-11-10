@@ -1,0 +1,17 @@
+
+
+Very nice job on this document, as usual!  You guys did a great job saying
+how the parts of the project fit together.  Just a couple of observations:
+
+Your deployment diagram isn't that.  You can keep the diagram if you just
+re-name it to be something like "message interaction flow diagram".
+
+The "frontend" diagram should be re-labeled "user interface example" to
+show what it really is.  Also, "frontend" is actually two words....
+
+Again, "backend" is really more of a back end data flow diagram or maybe
+a back end "task interaction" diagram.
+
+Other than that, this is a great job!!
+
+you got 10% out of 10% for this deliverable which is an A-plus.
